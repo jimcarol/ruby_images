@@ -1,0 +1,6 @@
+source "https://rubygems.org/"
+gem 'tzinfo-data'
+gem 'nokogiri'
+gem 'rufus-scheduler', '~> 3.2'
+gem 'grape'
+gem 'redis'
